@@ -6,6 +6,7 @@
     2、熟记scanf、printf的各种输出格式控制
     3、注意scanf、printf、getchar、putchar、gets、puts对char与char[]数组的处理差异
     4、熟悉在string.h中常见的字符串处理函数用法
+    5、cin和cout控制格式输出的设置方法
 
 int sscanf(char*,char*,...)返回值是匹配成功的格式化占位符个数。
 
